@@ -1,4 +1,4 @@
-distance,lat,status,lng,address_number,address_name,name_region,id,id_commune,commune,materials
+distance,lat,status,lng,address_number,address_name,id,name_region,id_commune,commune,materials
 0.14782346560534218,-36.82804900,open,-73.05077400,599,OHiggins,8,Biobio,148,Chiguayante,glass
 0.16542829120777403,-36.82704820,open,-73.05162720,444,Anibal Pinto (local 13),8,Biobio,146,Concepcion,phone
 0.208528315607853,-36.82769700,open,-73.05194000,444,Rengo,8,Biobio,146,Concepcion,"power_bank,phone"
