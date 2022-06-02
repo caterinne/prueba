@@ -1,0 +1,17 @@
+distance,lat,status,lng,address_number,address_name,id,name_region,id_commune,commune,materials
+0.14782346560534218,-36.82804900,open,-73.05077400,599,OHiggins,8,Biobio,148,Chiguayante,glass
+0.16542829120777403,-36.82704820,open,-73.05162720,444,Anibal Pinto (local 13),8,Biobio,146,Concepcion,phone
+0.208528315607853,-36.82769700,open,-73.05194000,444,Rengo,8,Biobio,146,Concepcion,"power_bank,phone"
+0.37728794789530995,-36.82754420,open,-73.04558800,1064,Cochrane,8,Biobio,146,Concepcion,phone
+0.37746097785946153,-36.82721900,open,-73.05400120,544,Barros Arana 3er piso,8,Biobio,146,Concepcion,phone
+0.39573867499068865,-36.82769270,open,-73.05412870,476,Rengo 4to piso,8,Biobio,146,Concepcion,phone
+0.5332095079785224,-36.82655320,open,-73.04380420,196,Ongolmo,8,Biobio,146,Concepcion,phone
+0.5667401060415231,-36.83179740,open,-73.05188520,81,Rengo,8,Biobio,146,Concepcion,phone
+0.6154823550464219,-36.83181400,open,-73.04637900,731,Victor Lamas,8,Biobio,153,San Pedro de la Paz,glass
+0.7758524371388539,-36.82877740,open,-73.05819610,215,Barros Arana (2do piso),8,Biobio,146,Concepcion,phone
+0.7967847171168303,-36.82857850,open,-73.05849940,538,Obispo Hipolito Salas,8,Biobio,146,Concepcion,phone
+0.9328964478883164,-36.82928800,open,-73.05985060,529,Serrano,8,Biobio,146,Concepcion,phone
+1.0268684667147108,-36.83325870,open,-73.05824220,196,Arturo prat,8,Biobio,146,Concepcion,"paper,paperboard,cardboard_drink plastic,metal"
+1.069792904383255,-36.82942470,open,-73.06139830,525,Prat (4to piso),8,Biobio,146,Concepcion,phone
+1.1024615278107541,-36.82825910,open,-73.03748540,1,Esteban S Iturra,8,Biobio,146,Concepcion,"paper,paperboard,cardboard_drink,plastic,metal,phone"
+1.7720131257482021,-36.81667270,open,-73.03459770,2120,Maipu,8,Biobio,146,Concepcion,phone
