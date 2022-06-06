@@ -1,0 +1,101 @@
+distance,lat,status,lng,address_number,address_name,id,name_region,id_commune,commune,materials
+0.14782346560534218,-36.82804900,open,-73.05077400,599,OHiggins,8,Biobio,148,Chiguayante,glass
+0.16542829120777403,-36.82704820,open,-73.05162720,444,Anibal Pinto (local 13),8,Biobio,146,Concepcion,phone
+0.208528315607853,-36.82769700,open,-73.05194000,444,Rengo,8,Biobio,146,Concepcion,"power_bank,phone"
+0.37728794789530995,-36.82754420,open,-73.04558800,1064,Cochrane,8,Biobio,146,Concepcion,phone
+0.37746097785946153,-36.82721900,open,-73.05400120,544,Barros Arana 3er piso,8,Biobio,146,Concepcion,phone
+0.39573867499068865,-36.82769270,open,-73.05412870,476,Rengo 4to piso,8,Biobio,146,Concepcion,phone
+0.5332095079785224,-36.82655320,open,-73.04380420,196,Ongolmo,8,Biobio,146,Concepcion,phone
+0.6154823550464219,-36.83181400,open,-73.04637900,731,Victor Lamas,8,Biobio,153,San Pedro de la Paz,glass
+0.7758524371388539,-36.82877740,open,-73.05819610,215,Barros Arana (2do piso),8,Biobio,146,Concepcion,phone
+0.7967847171168303,-36.82857850,open,-73.05849940,538,Obispo Hipolito Salas,8,Biobio,146,Concepcion,phone
+0.9328964478883164,-36.82928800,open,-73.05985060,529,Serrano,8,Biobio,146,Concepcion,phone
+1.0268684667147108,-36.83325870,open,-73.05824220,196,Arturo prat,8,Biobio,146,Concepcion,"paper,paperboard,cardboard_drink plastic,metal"
+1.1024615278107541,-36.82825910,open,-73.03748540,1,Esteban S Iturra,8,Biobio,146,Concepcion,"paper,paperboard,cardboard_drink,plastic,metal,phone"
+1.7720131257482021,-36.81667270,open,-73.03459770,2120,Maipu,8,Biobio,146,Concepcion,phone
+0.6531838062960852,-36.82919840,open,-73.04296960,1180,Victor lamas,8,Biobio,146,Concepcion,phone
+0.7758524371388539,-36.82877740,open,-73.05819610,215,Barros Arana (2do piso),8,Biobio,146,Concepcion,phone
+0.7967847171168303,-36.82857850,open,-73.05849940,538,Obispo Hipolito Salas,8,Biobio,146,Concepcion,phone
+0.9328964478883164,-36.82928800,open,-73.05985060,529,Serrano,8,Biobio,146,Concepcion,phone
+0.9402597910322674,-36.83057320,open,-73.05933890,77,Libertador Gral.Bernardo O'Higgins Poniente,8,Biobio,146,Concepcion,phone
+1.019096964705284,-36.83117210,open,-73.05995850,1,OHiggins 10 Edificio Neo Centro,8,Biobio,146,Concepcion,phone
+1.0268684667147108,-36.83325870,open,-73.05824220,196,Arturo prat,8,Biobio,146,Concepcion,"paper,paperboard,cardboard_drink plastic,metal"
+1.069792904383255,-36.82942470,open,-73.06139830,525,Prat (4to piso),8,Biobio,146,Concepcion,phone
+1.1024615278107541,-36.82825910,open,-73.03748540,1,Esteban S Iturra,8,Biobio,146,Concepcion,"paper,paperboard,cardboard_drink,plastic,metal,phone"
+1.7720131257482021,-36.81667270,open,-73.03459770,2120,Maipu,8,Biobio,146,Concepcion,phone
+1.84755514325856,-36.84216700,open,-73.05821930,56,Las Canchas,8,Biobio,146,Concepcion,phone
+1.8483298532736558,-36.81125240,open,-73.05645430,1020,Ejercito,8,Biobio,146,Concepcion,phone
+1.864627306793896,-36.81103860,open,-73.05623100,1058,Ejercito,8,Biobio,146,Concepcion,phone
+1.987774469690527,-36.81002200,open,-73.05679820,1060,Juan de Dios Rivera,8,Biobio,146,Concepcion,phone
+1.9928465279457632,-36.81542930,open,-73.03266220,2359,Maipu (Plaza Acevedo ),8,Biobio,146,Concepcion,phone
+2.0037901668719247,-36.80920000,open,-73.04618100,2,a Carriel Sur,8,Biobio,155,Talcahuano,glass
+3.0667489101923446,-36.80814410,open,-73.07492360,2775,Arturo Fernandez Vial,8,Biobio,146,Concepcion,phone
+3.1554626650199284,-36.85532620,open,-73.04785170,101,Sanders,8,Biobio,148,Chiguayante,glass
+3.1763874503365526,-36.85555570,open,-73.04991590,100,Sanders,8,Biobio,148,Chiguayante,glass
+3.63983895975161,-36.85958020,open,-73.04594210,121,Rafael Miranda,8,Biobio,148,Chiguayante,glass
+3.702297564476457,-36.83108570,open,-73.00848870,1397,Rio Loa,8,Biobio,146,Concepcion,phone
+3.9979821452338036,-36.80251450,open,-73.08266880,1,Colon,8,Biobio,157,Hualpen,glass
+4.092167066827119,-36.86371090,open,-73.04672350,159,Pedro de Valdivia,8,Biobio,148,Chiguayante,glass
+4.0982956306669625,-36.86356400,open,-73.04407500,19,Ramon Harriet,8,Biobio,148,Chiguayante,glass
+4.104089772550389,-36.84202740,open,-73.09188400,1,Colo colo,8,Biobio,153,San Pedro de la Paz,"paper,paperboard,cardboard_drink,plastic,metal"
+4.112298358911723,-36.83996840,open,-73.09303780,1,Colo Colo,8,Biobio,153,San Pedro de la Paz, glass
+4.247850618611953,-36.80002190,open,-73.08356680,2,Nueva Imperial,8,Biobio,157,Hualpen,glass
+4.255094597943562,-36.80399700,open,-73.08797900,2,Padre Las Casas,8,Biobio,157,Hualpen,glass
+4.2828869867321,-36.86524560,open,-73.04417280,102,Rafael Sotomayor,8,Biobio,148,Chiguayante,glass
+4.424323987097672,-36.86552630,open,-73.03739250,102,Rafael Sotomayor,8,Biobio,148,Chiguayante,glass
+4.42550672290492,-36.86550430,open,-73.03723320,467,Rafael Sotomayor,8,Biobio,148,Chiguayante,glass
+4.490322338748407,-36.79599180,open,-73.08209720,3,Los Zorzales,8,Biobio,157,Hualpen,glass
+4.5293721016899315,-36.86607400,open,-73.03543100,1371,Bernardo OHiggins,8,Biobio,148,Chiguayante,"plastic, metal"
+4.559658723851066,-36.86676160,open,-73.03729180,3267,Dos norte,8,Biobio,148,Chiguayante,glass
+4.573565769638444,-36.83216990,open,-73.10074760,3,Enrique Soro,8,Biobio,153,San Pedro de la Paz,glass
+4.588084471285313,-36.86779530,open,-73.04212270,193,Abraham Romero,8,Biobio,148,Chiguayante,glass
+4.5899058550144485,-36.83259160,open,-73.10086340,2,Enrique Soro,8,Biobio,153,San Pedro de la Paz,glass
+4.6683326523574245,-36.86778280,open,-73.03736480,3375,Cinco Pte,8,Biobio,148,Chiguayante,plastic
+4.689612957359826,-36.86754600,open,-73.03530900,3375,Cinco Poniente,8,Biobio,148,Chiguayante,"plastic, metal"
+4.721387434136069,-36.79216060,open,-73.08010340,1,Los Zorzales,8,Biobio,157,Hualpen,glass
+4.731143370676758,-36.84603710,open,-73.09730770,1,Los Canelos,8,Biobio,153,San Pedro de la Paz,glass
+4.738035302808017,-36.83482270,open,-73.10209840,1,Las Rosas,8,Biobio,153,San Pedro de la Paz,glass
+4.864027489023065,-36.79478660,open,-73.08674680,2,Colon,8,Biobio,157,Hualpen,glass
+4.948456875201778,-36.80013770,open,-73.09409790,2,Potsdam,8,Biobio,157,Hualpen,glass
+4.956318763908317,-36.84675120,open,-73.09969010,1,Los Robles,8,Biobio,153,San Pedro de la Paz,"paper, paperboard, cardboard_drink, plastic, metal"
+5.096090288133651,-36.84114100,open,-73.10423300,39,Los Acacios,8,Biobio,153,San Pedro de la Paz,"paper, paperboard, cardboard_drink, plastic, metal"
+5.153427418779372,-36.83061440,open,-73.10749390,2,Enrique Soro,8,Biobio,153,San Pedro de la Paz,glass
+5.174483671871544,-36.85852830,open,-73.09252720,1,Andalupe,8,Biobio,153,San Pedro de la Paz,glass
+5.1897842894418496,-36.79686000,open,-73.09429200,8781,Quirihue,8,Biobio,157,Hualpen,glass
+5.223637649284763,-36.84255700,open,-73.10514840,1,Los Acacios,8,Biobio,153,San Pedro de la Paz,glass
+5.23218120765283,-36.84757910,open,-73.10263560,1,Los Fresnos,8,Biobio,153,San Pedro de la Paz,glass
+5.26296161276427,-36.79583720,open,-73.09427740,1,Ramuntcho,8,Biobio,157,Hualpen,glass
+5.308653744679205,-36.84004980,open,-73.10714380,1,San Pedro,8,Biobio,153,San Pedro de la Paz,glass
+5.327635321854001,-36.79013380,open,-73.08800720,1,Curanilahue,8,Biobio,157,Hualpen,glass
+5.332824925027341,-36.85747060,open,-73.09603740,2,Andalupe,8,Biobio,153,San Pedro de la Paz,glass
+5.395868634968082,-36.84186170,open,-73.10748220,1,Los Mañios,8,Biobio,153,San Pedro de la Paz,glass
+5.513658283780479,-36.80158550,open,-73.10296040,1,Oceano Atlantico,8,Biobio,157,Hualpen,glass
+5.596526309260198,-36.78645300,open,-73.08702900,7510,Colon,8,Biobio,155,Talcahuano,glass
+5.606162118849803,-36.84095420,open,-73.11029780,1,Los Escolapios,8,Biobio,153,San Pedro de la Paz,glass
+5.625352097457054,-36.83963800,open,-73.11097000,25,Los Peumos,8,Biobio,153,San Pedro de la Paz,"paper, paperboard, cardboard_drink, plastic, metal"
+5.689763191685081,-36.84069400,open,-73.11136600,1807,Los Escolapios,8,Biobio,153,San Pedro de la Paz,"paper, paperboard, cardboard_drink, plastic, metal"
+5.737441041258772,-36.79618740,open,-73.10147450,1,Potsdam,8,Biobio,157,Hualpen,glass
+5.875446903337396,-36.79090390,open,-73.09797850,2,Badalona,8,Biobio,157,Hualpen,glass
+5.896777024609557,-36.78781740,open,-73.09441630,2,Reconquista,8,Biobio,157,Hualpen,glass
+5.9680299269200905,-36.83347010,open,-73.11633440,1,Las Garzas,8,Biobio,153,San Pedro de la Paz,"paper, paperboard, cardboard_drink, plastic, metal"
+5.974593836188813,-36.84420150,open,-73.11336590,2,Los Acacios,8,Biobio,153,San Pedro de la Paz,glass
+5.975374885145004,-36.77664500,open,-73.07323900,1,3-A,8,Biobio,155,Talcahuano,glass
+5.984584625535344,-36.88012960,open,-73.03910350,105,Ignacio Verdugo,8,Biobio,148,Chiguayante,plastic
+6.087622317654283,-36.84280400,open,-73.11525700,1900,Bayona,8,Biobio,153,San Pedro de la Paz,glass
+6.0946643509730345,-36.78968930,open,-73.09993020,2,Patria Vieja,8,Biobio,157,Hualpen,glass
+6.103946846406658,-36.78081780,open,-73.08685040,1,Colon,8,Biobio,155,Talcahuano,glass
+6.122500506728706,-36.83058420,open,-73.11841250,1,29,8,Biobio,153,San Pedro de la Paz,"paper, paperboard, cardboard_drink, plastic, metal"
+6.147643894398793,-36.78052780,open,-73.08719440,1,Colon,8,Biobio,155,Talcahuano,glass
+6.17100987105984,-36.79299710,open,-73.10456240,2,Alemania,8,Biobio,157,Hualpen,glass
+6.195662967198103,-36.79160280,open,-73.10352600,2,Alemania,8,Biobio,157,Hualpen,glass
+6.247238656566713,-36.77498600,open,-73.07632400,6566,Uno,8,Biobio,155,Talcahuano,glass
+6.286132391573928,-36.79357830,open,-73.10672870,2,Potsdam,8,Biobio,157,Hualpen,glass
+6.312576698417368,-36.77450000,open,-73.07677780,6566,1,8,Biobio,155,Talcahuano,glass
+6.385032265758887,-36.77747700,open,-73.08609000,1,2 Norte,8,Biobio,155,Talcahuano,glass
+6.437080232592076,-36.77316670,open,-73.07638890,1,6,8,Biobio,155,Talcahuano,glass
+6.464844023117409,-36.78838040,open,-73.10406170,1,Bulgaria,8,Biobio,157,Hualpen,glass
+6.489618958672624,-36.77608330,open,-73.08541670,225,Arteaga Alemparte,8,Biobio,155,Talcahuano,glass
+6.4910351996329005,-36.77633330,open,-73.08600000,1,Ejercito,8,Biobio,155,Talcahuano,glass
+6.5087084302461875,-36.77632390,open,-73.08637750,1,Ejercito,8,Biobio,155,Talcahuano,glass
+6.5319919285423,-36.78550930,open,-73.10172080,3,Alemania,8,Biobio,157,Hualpen,glass
+6.570768564357949,-36.77730560,open,-73.08972220,1,2 Norte,8,Biobio,155,Talcahuano,glass
